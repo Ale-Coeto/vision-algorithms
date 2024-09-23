@@ -52,8 +52,11 @@ for out in results:
         cv2.putText(results_image, f'{label} {prob}', (x1, y2+22), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
 ```
 
-### Examples
+## Examples
 Check basic examples:
 - [Image detection](Yolov8-On_Image.py)
 - [Video detection](Yolov8-On_Video.py)
 - [Tracker (person)](Yolov8-Tracker.py)
+
+## References
+- [Ultralytics](https://docs.ultralytics.com/models/)

@@ -89,3 +89,6 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows() 
 ```
+
+## References
+- [OpenCV Documentation](https://docs.opencv.org/master/)

@@ -1,8 +1,8 @@
-### YOLO - Object Detection
+# YOLO - Object Detection
 
 This tool is used mostly for object detection in images and videos. It is a deep learning algorithm that uses a convolutional neural network to detect objects in images. 
 
-### Guide
+## Guide
 1. Import model
 
 ```python
